@@ -2,6 +2,7 @@
 
 /**
  * _islower - this checks for small case letters
+ * @c : this is the character to check for the program
  * Return: 0 or 1
  */
 
