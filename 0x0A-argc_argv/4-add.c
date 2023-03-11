@@ -40,6 +40,7 @@ int main(int argc, char *argv[])
 
 	count = 1;
 	while (count < argc)
+	{
 		if (check_num(argv[count]))
 		{
 			str_to_int = atoi(argv[count]);
@@ -51,7 +52,8 @@ int main(int argc, char *argv[])
 			return (1);
 		}
 	count++;
-}
+	}
+
 
 printf("%d\n", sum);
 
