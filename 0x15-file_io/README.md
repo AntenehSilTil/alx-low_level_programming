@@ -1,2 +1,1 @@
-This is the readme file of the alx project 0x15. C - File I/O
-
+ is the README file for the ALX assignment of 0x15-file
